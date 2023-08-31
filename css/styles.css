@@ -1,6 +1,9 @@
 :root {
     --color-paragraph-footer: #F4F4FD;
 }
+ul {
+    list-style: none;
+}
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
